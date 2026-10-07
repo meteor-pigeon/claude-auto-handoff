@@ -43,7 +43,7 @@ Loop guards stop a fresh session that starts large from handing off again right 
 Requires a Claude Code build with mods (function-hook plugins).
 
 ```sh
-git clone https://github.com/alexknowshtml/claude-auto-handoff.git ~/claude-auto-handoff
+git clone https://github.com/meteor-pigeon/claude-auto-handoff.git ~/claude-auto-handoff
 claude --plugin-dir ~/claude-auto-handoff
 ```
 
